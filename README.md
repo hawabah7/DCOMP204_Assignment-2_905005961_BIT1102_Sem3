@@ -84,7 +84,7 @@ Double-click `index.html`, or right-click it in VS Code and choose **Reveal in F
 ** Contact Page **
 <img width="937" height="427" alt="Screenshot 2026-10-29 123834" src="https://github.com/user-attachments/assets/71ac39b0-831c-4c70-969b-a73c56210341" />
 ** Find a room **
-<img width="932" height="419" alt="Screenshot 2026-10-29 123653" src="https://github.com/user-attachments/assets/20eb1dfb-b975-496b-a323-0dfb4d9223c3" />
+![Uploading Screenshot 2026-10-29 123653.png…]()
 
 
 
