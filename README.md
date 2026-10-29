@@ -74,6 +74,22 @@ Double-click `index.html`, or right-click it in VS Code and choose **Reveal in F
 - **Colour palette:** teal (`#0f5e57`, `#0a3f3b`), amber (`#f2a516`), mint and sky backgrounds
 - **Fonts:** Segoe UI for body text and Trebuchet MS for headings, with system fallbacks
 
+## Screenshot
+** Home Page **
+<img width="940" height="445" alt="Screenshot 2026-10-29 123529" src="https://github.com/user-attachments/assets/d083e7bb-2304-4585-9414-69ce6f7c6cb5" />
+** About Page **
+<img width="910" height="430" alt="Screenshot 2026-10-29 123757" src="https://github.com/user-attachments/assets/133d8b79-f721-4e36-8c60-2d8e2eabf3a2" />
+** Services Page **
+<img width="941" height="431" alt="Screenshot 2026-10-29 123731" src="https://github.com/user-attachments/assets/45e981e9-f913-4471-b9a8-88be1ac28b08" />
+** Contact Page **
+<img width="937" height="427" alt="Screenshot 2026-10-29 123834" src="https://github.com/user-attachments/assets/71ac39b0-831c-4c70-969b-a73c56210341" />
+** Find a room **
+<img width="932" height="419" alt="Screenshot 2026-10-29 123653" src="https://github.com/user-attachments/assets/20eb1dfb-b975-496b-a323-0dfb4d9223c3" />
+
+
+
+
+
 ## Disclaimer
 
 CampusNest Freetown is a concept created for coursework. It is not a real accommodation service.
